@@ -3,5 +3,4 @@ edit fiole
 create new file
 pull file
 push file
-clone
-merge
+cl
